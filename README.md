@@ -58,11 +58,10 @@ localization, and translation quality assurance.
 ## 🌐 Portfolio
 
 **Portfolio:**  
-Add your Blogger portfolio link here
+(https://polashkumardas.blogspot.com/)
 
 **LinkedIn:**  
-Add your LinkedIn profile link here
-
+https://www.linkedin.com/in/polash-kumar-das-342432431/
 ---
 
 ## 🎯 Career Goal
