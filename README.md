@@ -1,4 +1,82 @@
-## Hi there 👋
+# Hi, I'm Sree Polash Kumar Das 👋
+
+### Transcription Specialist | Multilingual → English
+
+I work with multilingual content, focusing on accurate transcription,
+localization, and translation quality assurance.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎙️ Transcription Specialist
+- 🌐 Multilingual → English
+- 📝 Transcription & Content Processing
+- 🌍 Localization
+- ✅ Translation Quality Assurance
+- 📚 Terminology Management
+- 💻 Computer Science & Technology Student
+
+---
+
+## 🛠️ Skills & Tools
+
+### Language & Localization
+- Transcription
+- Localization
+- Translation QA
+- Terminology Management
+- Multilingual Content
+
+### Translation Technology
+- Trados Studio
+- memoQ
+- Translation Memory
+- Termbases
+- QA Workflows
+
+### Technology
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 🚀 Currently Learning
+
+- Advanced Transcription Workflows
+- Translation Technology
+- Localization
+- Translation QA
+- Digital Marketing
+- AI & Automation
+
+---
+
+## 🌐 Portfolio
+
+**Portfolio:**  
+Add your Blogger portfolio link here
+
+**LinkedIn:**  
+Add your LinkedIn profile link here
+
+---
+
+## 🎯 Career Goal
+
+Building a professional career at the intersection of
+**Language, Technology, AI, and Digital Business.**
+
+---
+
+### Let's Connect
+
+I'm interested in transcription, localization, translation technology,
+QA, AI, and digital projects.
+
 
 <!--
 **sree-polash-das/sree-polash-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
