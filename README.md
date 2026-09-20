@@ -1,46 +1,36 @@
-# Hi, I'm Sree Polash Kumar Das 👋
+# 👋 Hi, I'm Sree Polash Kumar Das
 
-### Transcription Specialist | Multilingual → English
+### 🎙️ Transcription Specialist | Multilingual → English
 
-I work with multilingual content, focusing on accurate transcription,
-localization, and translation quality assurance.
+I work with multilingual content, focusing on **accurate transcription, localization, and translation quality assurance**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎙️ Transcription Specialist
-- 🌐 Multilingual → English
-- 📝 Transcription & Content Processing
-- 🌍 Localization
-- ✅ Translation Quality Assurance
-- 📚 Terminology Management
-- 💻 Computer Science & Technology Student
+- 🎙️ **Transcription Specialist**
+- 🌐 **Multilingual → English**
+- 🌍 **Localization**
+- ✅ **Translation Quality Assurance**
+- 📚 **Terminology Management**
+- 💻 **Computer Science & Technology Student**
+- 🤖 Interested in **AI, Automation & Digital Technology**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### Language & Localization
-- Transcription
-- Localization
-- Translation QA
-- Terminology Management
-- Multilingual Content
+### 🌐 Language & Localization
 
-### Translation Technology
-- Trados Studio
-- memoQ
-- Translation Memory
-- Termbases
-- QA Workflows
+`Transcription` `Localization` `Translation QA` `Proofreading` `Terminology Management`
 
-### Technology
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+### 💻 Translation Technology
+
+`Trados Studio` `memoQ` `Translation Memory` `Termbases` `QA Workflows`
+
+### 👨‍💻 Technology
+
+`Python` `HTML` `CSS` `JavaScript` `Git` `GitHub`
 
 ---
 
@@ -50,42 +40,54 @@ localization, and translation quality assurance.
 - Translation Technology
 - Localization
 - Translation QA
-- Digital Marketing
 - AI & Automation
+- Digital Marketing
 
 ---
 
-## 🌐 Portfolio
+## 📂 Projects
 
-- 🌐 [Portfolio](https://polashkumardas.blogspot.com/)
+### 🎓 Smart Study Monitor
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/polash-kumar-das-342432431/)
+A computer-vision based study monitoring project designed to help track study activity and provide alerts.
+
+**Technologies:** Python • OpenCV • Computer Vision
+
+### 🌐 Professional Portfolio
+
+A personal portfolio website focused on transcription, localization, translation technology, and professional services.
+
+**Technologies:** HTML • CSS • JavaScript • EmailJS
+
 ---
 
 ## 🎯 Career Goal
 
-Building a professional career at the intersection of
-**Language, Technology, AI, and Digital Business.**
+Building a professional career at the intersection of:
+
+**Language × Technology × AI × Digital Business**
 
 ---
 
-### Let's Connect
+## 🌐 Portfolio & Professional Links
 
-I'm interested in transcription, localization, translation technology,
-QA, AI, and digital projects.
+- 🌐 **[Portfolio](https://polashkumardas.blogspot.com/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/polash-kumar-das-342432431/)**
 
+---
 
-<!--
-**sree-polash-das/sree-polash-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Activity
 
-Here are some ideas to get you started:
+I use GitHub to document my learning journey, experiments, and technology projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+
+**Transcription • Localization • Translation QA • Translation Technology • AI • Digital Projects**
+
+---
+
+### ✨ Keep Learning. Keep Building. Keep Growing.
