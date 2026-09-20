@@ -57,11 +57,9 @@ localization, and translation quality assurance.
 
 ## 🌐 Portfolio
 
-**Portfolio:**  
-(https://polashkumardas.blogspot.com/)
+- 🌐 [Portfolio](https://polashkumardas.blogspot.com/)
 
-**LinkedIn:**  
-https://www.linkedin.com/in/polash-kumar-das-342432431/
+- 💼 [LinkedIn](https://www.linkedin.com/in/polash-kumar-das-342432431/)
 ---
 
 ## 🎯 Career Goal
